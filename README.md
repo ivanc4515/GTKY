@@ -1,12 +1,12 @@
-My name is ...
+My name is Ivan
 
-I'm ... years old.
+I'm 15 years old.
 
-I was born in ....
+I was born in July 26, 2004
 
-My favorite color is ...
+My favorite color is orange
 
-My favorite 3 artist are ...
+My favorite 2 artist are Rebecca Sugar, Billie Eilish
 
-On the weekends I like to ...
+On the weekends I like to hang out with friends and play videogames
 
